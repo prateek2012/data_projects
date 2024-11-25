@@ -1,0 +1,4 @@
+pandas
+duckdb
+black
+flake8
