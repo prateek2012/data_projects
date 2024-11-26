@@ -1,6 +1,6 @@
-# Data Analysis Project
+# End to End Data Engineering Project
 
-This project is designed to analyze user listening data and provide insights through various queries. It includes scripts for initial data analysis, database creation, and executing SQL queries to generate insights.
+This project is designed to process and analyse a real world dataset provided by the open source project Listen-Brainz . It analyzes user listening data and provides insights through various queries. It includes scripts for initial data analysis, database creation, and executing SQL queries to generate insights.
 
 
 ## Setup a Virtual Environment
